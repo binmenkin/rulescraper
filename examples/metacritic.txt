@@ -1,0 +1,5 @@
+metacritic.com/game/pc {item:metacritic.com:<h3 class="product_title"><a href="#"}
+Title[:]<h1 class="product_title">*<span itemprop="name">#<
+Publisher[:]<li class="summary_detail publisher"*<span itemprop="name">#<
+Metascore[:]<span itemprop="ratingValue">#<
+User Score[:]<a class="metascore_anchor" href="*">*<div class="metascore_w user large game*">#</div>

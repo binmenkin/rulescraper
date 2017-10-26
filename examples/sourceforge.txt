@@ -1,0 +1,3 @@
+sourceforge.net/directory/graphics/os%3Awindows/?page={iter:1:5}
+Name[:]<div class="project_info">*<a href="/projects/*"*><span itemprop="name">#<
+User Downloads[:]<strong itemprop="interactionCount" content="UserDownloads:*">#</strong>

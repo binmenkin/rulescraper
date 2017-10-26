@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\bin\Debug\rulescraper.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\obj\Debug\rulescraper.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\obj\Debug\rulescraper.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\bin\Debug\rulescraper.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\bin\Debug\rulescraper.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\bin\Debug\WebDriver.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\bin\Debug\WebDriver.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\obj\Debug\rulescraper.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\obj\Debug\rulescraper.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\obj\Debug\rulescraper.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\obj\Debug\rulescraper.Form3.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\obj\Debug\rulescraper.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\rulescraper\rulescraper\obj\Debug\rulescraper.csproj.GenerateResource.Cache

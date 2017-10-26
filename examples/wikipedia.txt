@@ -1,0 +1,2 @@
+en.wikipedia.org {click:#n-randompage > a}
+Heading[:]<h1 id="firstHeading" class="firstHeading"*>#<

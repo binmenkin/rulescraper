@@ -1,0 +1,4 @@
+kickstarter.com/discover/popular {click-expand:2:5:#projects > div.grid-container > div.load_more > a}
+Title[:]class="navy-700"><!-- react-text:* -->#<
+Pledged[:]<span class="bold navy-600">#</span><span class="ml1 normal">pledged
+Funded[:]<div class="mr2"><span class="bold navy-600">#</span><span class="ml1 normal">funded
