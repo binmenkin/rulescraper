@@ -14,7 +14,7 @@ Download the project files. Import the project into Visual Studio and run it or 
 	3. Click **OK**.
 4. Repeat Part.3 if necessary.
 5. Click **Scrape**.
-	1. Click **Current Page** to scrape the current page from the browser if necessary.
+	1. Click **Current Page** to scrape data from the current browser page if necessary.
 
 ### Data patterns (rules)
 Use special characters to scrape data correctly:
