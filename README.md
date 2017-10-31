@@ -1,5 +1,7 @@
 # Rulescraper
 A tool for getting data out of web pages.
+<br><br>
+<img src="show.gif" width="416">
 
 ## Installation
 Download the project files. Import the project into Visual Studio and run it or use the compiled program from the folder `rulescraper\bin\Debug (rulescraper.exe)`.
